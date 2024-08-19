@@ -9,4 +9,4 @@ for n in range(3, 10000):
             s = s.replace("1122", "25", 1)
 
     if sum(int(x) for x in s) == 64:
-        print(n, '----------------')
+        print(n)

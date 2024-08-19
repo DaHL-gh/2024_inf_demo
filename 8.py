@@ -1,6 +1,6 @@
 c = 0
 
-for i1 in range(8):
+for i1 in range(1, 8):
     for i2 in range(8):
         for i3 in range(8):
             for i4 in range(8):
